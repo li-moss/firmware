@@ -1,0 +1,2 @@
+factory.bin
+smart.bin
