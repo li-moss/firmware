@@ -4,4 +4,10 @@ factory2.bin
 factory3.bin
 factory4.bin
 factory5.bin
+factory6.bin
+factory7.bin
+factory8.bin
+factory9.bin
+factory10.bin
+factory11.bin
 smart.bin
