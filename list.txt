@@ -1,2 +1,7 @@
 factory.bin
+factory1.bin
+factory2.bin
+factory3.bin
+factory4.bin
+factory5.bin
 smart.bin
