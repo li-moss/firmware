@@ -1,4 +1,4 @@
 esp32_rf.bin
 esp32_nat.bin
-esp32_face.bin
+esp32_cam.bin
 
